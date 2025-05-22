@@ -9,7 +9,7 @@ const AuthLoginForm = ({ onLoginSuccess }) => {
 
   // Usuarios por defecto
   const defaultUsers = [
-    { email: 'juan.perez@oesia.com', password: 'Password123', role: 'Administrador' },
+    { email: 'ctovar@oesia.com', password: 'oesia2025', role: 'Estandar' },
     { email: 'maria.gonzalez@oesia.com', password: 'Password456', role: 'Estandar' },
     { email: 'acuribe@oesia.com', password: 'Oesia2025@++', role: 'Administrador' }
   ];
